@@ -16,5 +16,6 @@
 
 if you need the missing data below, email me
 
-booksummaries.txt link : ??
-ratings.csv link : ??
+booksummaries.txt
+ratings.csv
+movies.csv
